@@ -1,0 +1,10 @@
+funções -> 
+    -> Visualizar tópicos pesquisados no gemini -> 
+
+classes/objetos -> 
+    -> Implementação de classes e objetos ->
+    -> Try/Catch em funções
+    -> Tratamento de exceções -> 
+
+modulos -> 
+    visualizar tópicos da documentação -> 
