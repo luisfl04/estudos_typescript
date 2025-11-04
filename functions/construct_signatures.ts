@@ -30,5 +30,3 @@ function createHome(constructor: HomeConstructor, name_home: string){
 }
 
 const myInstanceHome = createHome(MyHome, "WhiteHouse");
-console.log(myInstanceHome.getNameHome())
-    
