@@ -1,7 +1,7 @@
-funções -> 
-    -> Visualizar tópicos pesquisados no gemini -> 
+funções -> Ok
+    -> Visualizar tópicos pesquisados no gemini -> Ok
 
-classes/objetos -> 
+classes/objetos ->  
     -> Implementação de classes e objetos ->
     -> Try/Catch em funções
     -> Tratamento de exceções -> 
