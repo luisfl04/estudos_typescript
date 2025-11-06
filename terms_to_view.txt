@@ -2,9 +2,9 @@ funções -> Ok
     -> Visualizar tópicos pesquisados no gemini -> Ok
 
 classes/objetos ->  
-    -> Implementação de classes e objetos ->
-    -> Try/Catch em funções
-    -> Tratamento de exceções -> 
+    -> Implementação de classes e objetos -> Ok
+    -> Try/Catch em funções -> Ok
+    -> Tratamento de exceções -> Ok
 
 modulos -> 
-    visualizar tópicos da documentação -> 
+    visualizar tópicos da documentação ->  OK

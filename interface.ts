@@ -4,6 +4,7 @@ interface Book{
     author: Author;
     year: number;
 }
+
 const bible: Book = {
     id: 11,
     title: "The Holy Bible",
